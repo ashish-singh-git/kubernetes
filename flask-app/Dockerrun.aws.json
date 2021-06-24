@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "itsmeashishsingh/catnip",
+    "Name": "prakhar1989/catnip",
     "Update": "true"
   },
   "Ports": [
