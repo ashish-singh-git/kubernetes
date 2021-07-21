@@ -1,12 +1,9 @@
-# Getting Started with Docker
+# Getting Started with Kubernetes
 
-### HELLO WORLD
 
 ```sh
 minikube start
 ```
-
-### Playing with Busybox
 
 ```sh
 kubectl get pods
